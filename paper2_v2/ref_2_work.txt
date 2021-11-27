@@ -1,0 +1,32 @@
+ACM:(312 results)
+"query": { Title:(software AND log AND ( statement OR file OR record OR event)) OR 
+Abstract:(software AND log AND ( statement OR file OR record OR event)) OR 
+Keyword:(software AND log AND ( statement OR file OR record OR event)) }
+"filter": { Publication Date: (06/01/2021 TO 10/31/2021), ACM Content: DL }
+Results in 9:
+https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&expand=dl&AfterMonth=6&AfterYear=2021&BeforeMonth=10&BeforeYear=2021&AllField=Title%3A%28software+AND+log+AND+%28+statement+OR+file+OR+record+OR+event%29%29+OR+Abstract%3A%28software+AND+log+AND+%28+statement+OR+file+OR+record+OR+event%29%29+OR+Keyword%3A%28software+AND+log+AND+%28+statement+OR+file+OR+record+OR+event%29%29
+
+
+ieee: 57
+Showing 1-57 of 57 for ("All Metadata":software log statement) OR ("All Metadata":software log file) OR 
+("All Metadata":software log record) OR 
+("All Metadata":software log event)
+ Filters Applied: 2021 - 2022
+https://ieeexplore-ieee-org.proxy.lib.uwaterloo.ca/search/searchresult.jsp?action=search&newsearch=true&matchBoolean=true&queryText=(%22All%20Metadata%22:software%20log%20statement)%20OR%20(%22All%20Metadata%22:software%20log%20file)%20OR%20(%22All%20Metadata%22:software%20log%20record)%20OR%20(%22All%20Metadata%22:software%20log%20event)&ranges=2021_2022_Year&highlight=true&returnFacets=ALL&returnType=SEARCH&matchPubs=true&rowsPerPage=75&pageNumber=1
+ 
+springerlink:
+390 Result(s) for 'software AND log AND (statement OR file OR record OR event)'
+within Computer Science --> Software Engineering/Programming and Operating Systems Remove 
+Article  2021 
+https://link-springer-com.proxy.lib.uwaterloo.ca/search?facet-start-year=2021&date-facet-mode=in&query=software+AND+log+AND+%28statement+OR+file+OR+record+OR+event%29&facet-end-year=2021&showAll=true&facet-sub-discipline=%22Software+Engineering%2FProgramming+and+Operating+Systems%22&facet-discipline=%22Computer+Science%22&facet-content-type=%22Article%22
+
+
+Sciencedirect: (30 results)
+Year: 2021-2022Title, abstract, keywords: software AND log AND (statement OR file OR record OR event)
+https://www.sciencedirect.com/search?date=2021-2022&tak=software%20AND%20log%20AND%20%28statement%20OR%20file%20OR%20record%20OR%20event%29&show=50
+
+
+Scopos:
+191 document results
+TITLE-ABS-KEY ( software  AND  log  AND  ( statement  OR  file  OR  record  OR  event ) )  AND  PUBYEAR  >  2020
+https://www.scopus.com/results/results.uri?sid=72f0326a0b3aad00d666bd619e570642&src=s&sot=b&sdt=b&origin=searchbasic&sl=86&s=TITLE-ABS-KEY(software%20%20AND%20%20log%20%20AND%20%20(%20statement%20%20OR%20%20file%20%20OR%20%20record%20%20OR%20%20event%20))&searchterm1=software%20%20AND%20%20log%20%20AND%20%20(%20statement%20%20OR%20%20file%20%20OR%20%20record%20%20OR%20%20event%20)&searchTerms=&connectors=&field1=TITLE_ABS_KEY&fields=&yearFrom=2021&yearTo=Present

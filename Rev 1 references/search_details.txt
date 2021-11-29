@@ -1,0 +1,31 @@
+Scopus:2055
+( TITLE-ABS-KEY ( software  AND  log  AND  ( statement  OR  file  OR  record  OR  event ) )  AND  PUBYEAR  >  2009 ) 
+https://www.scopus.com/results/results.uri?src=s&sot=b&sdt=b&origin=searchbasic&sl=74&s=TITLE-ABS-KEY(software%20AND%20log%20AND%20(statement%20OR%20record%20OR%20File%20OR%20event))&searchterm1=software%20AND%20log%20AND%20(statement%20OR%20record%20OR%20File%20OR%20event)&searchTerms=&connectors=&field1=TITLE_ABS_KEY&fields=&yearFrom=2010&yearTo=Present
+
+SpringerLink: 2,447
+2,447 Result(s) for 'software AND log AND (statement OR file OR record OR event)' AND 'Publication Date: (01/01/2010 TO 05/31/2021)'
+within Computer Science Remove this filter Software Engineering/Programming and 
+Operating Systems Remove this filter Article Remove this filter 2010 - 2022 Remove this filter
+
+https://link-springer-com.proxy.lib.uwaterloo.ca/search?query=software+AND+log+AND+%28statement+OR+file+OR+record+OR+event%29&showAll=true&facet-sub-discipline=%22Software+Engineering%2FProgramming+and+Operating+Systems%22&facet-content-type=%22Article%22&facet-discipline=%22Computer+Science%22&date-facet-mode=between&facet-start-year=2010&previous-start-year=2020&facet-end-year=2021&previous-end-year=2021
+
+
+ACM: 317 Results for: 
+[[Publication Title: software] AND [Publication Title: log] AND [[Publication Title: statement] 
+OR [Publication Title: file] OR [Publication Title: event or record]]] OR 
+[[Abstract: software] AND [Abstract: log] AND [[Abstract: statement] OR [Abstract: file] OR
+ [Abstract: event or record]]] OR [[Keywords: software] AND [Keywords: log] AND [[Keywords: statement] OR
+ [Keywords: file] OR [Keywords: event or record]]] AND [Publication Date: (01/01/2010 TO 05/31/2021)]
+ 
+ https://dl.acm.org/action/doSearch?fillQuickSearch=false&expand=dl&AfterMonth=1&AfterYear=2010&BeforeMonth=5&BeforeYear=2021&AllField=Title%3A%28software+AND+log+AND+%28statement+OR+file+OR+event+or+record%29%29+OR+Abstract%3A%28software+AND+log+AND+%28statement+OR+file+OR+event+or+record%29%29+OR+Keyword%3A%28software+AND+log+AND+%28statement+OR+file+OR+event+or+record%29%29&startPage=6&pageSize=50
+ 
+ 
+IEEE: 1,085 for ("All Metadata":software log statement ) OR ("All Metadata":software log file ) OR ("All Metadata":software log event) OR ("All Metadata":software log record)
+Filters Applied: 2010 - 2021
+ 
+ 
+ 
+ScienceDirect: 222 results
+Year: 2010-2022Title, abstract, keywords: software AND log AND (statement OR file OR record OR event)
+Advanced search
+https://www.sciencedirect.com/search?date=2010-2022&offset=200&show=100&tak=software%20AND%20log%20AND%20%28statement%20OR%20file%20OR%20record%20OR%20event%29
